@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Jatin DHiman](https://github.com/jatindhiman5053)
+- Place: Haryana, India
+- Bio: Student doing Masters in Computer Application(MCA)
+- Github: [Jatin Dhiman](https://github.com/jatindhiman5053)
